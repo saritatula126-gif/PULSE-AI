@@ -36,3 +36,10 @@ Proyecto en desarrollo.
 
 ## Importante
 Los datos utilizados son simulados y el proyecto tiene un propósito educativo. No representa un diagnóstico médico ni una predicción definitiva sobre una persona.
+
+## Funcionalidades
+
+- Asistente virtual interactivo.
+- Modelo predictivo mediante Machine Learning.
+- Análisis de comentarios mediante procesamiento de lenguaje natural.
+- Generación de indicadores de apoyo académico.
