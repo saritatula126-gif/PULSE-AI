@@ -37,6 +37,13 @@ Proyecto en desarrollo.
 ## Importante
 Los datos utilizados son simulados y el proyecto tiene un propósito educativo. No representa un diagnóstico médico ni una predicción definitiva sobre una persona.
 
+## Próximos pasos
+
+- Mejorar el asistente virtual.
+- Ampliar las funciones del modelo predictivo.
+- Mejorar el análisis de comentarios.
+- Integrar los diferentes módulos en una sola plataforma.
+
 ## Funcionalidades
 
 - Asistente virtual interactivo.
